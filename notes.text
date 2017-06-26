@@ -1,0 +1,10 @@
+Ice
+
+a text based adventure game where you try to escape off a icebreaker ship that is trapped on the ice as it drifts south into warmer weather, melting as it goes.  Once the ice melts to a certain point, the damaged ship will sink.  You are the last person on the ship with low supplies trying to find enough material to fix the radio and call for help.
+
+HTML
+CSS/Bootstrap
+Javascript (arrays/looping/objects)
+GitHub
+
+I think this would be a fun callback to an old Zork type of game.  Would love to integrate some graphics or background art/images along the way if we can get it done fast.
